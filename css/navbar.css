@@ -1,3 +1,6 @@
+body{
+    margin: 0px;
+}
 .container-items{
     background-color: #DFF2EB;
     width: 100vw;
@@ -5,10 +8,7 @@
     margin: 0;
     display: flex;
     justify-content: space-between;
-    position: fixed; /* Fija el elemento en la pantalla */
-    top: 0; /* Lo pega a la parte superior */
-    left: 0; /* Lo pega al lado izquierdo */
-    right: 0; /* Lo pega al lado derecho */
+  
 }
 
 .container_logo{
@@ -90,4 +90,3 @@
     list-style-type: none;
     font-size: 27px;
 }
-
