@@ -1,0 +1,19 @@
+{
+  "name": "proyectojd",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto ",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thejudge8/Proyecto-00-JD.git"
+  },
+  "author": "Juan Camilo Hernandez y Daniel Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thejudge8/Proyecto-00-JD/issues"
+  },
+  "homepage": "https://github.com/thejudge8/Proyecto-00-JD#readme"
+}
